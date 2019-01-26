@@ -1,0 +1,23 @@
+PODS:
+  - Outfit (0.1.0):
+    - Outfit/All (= 0.1.0)
+  - Outfit/All (0.1.0):
+    - Outfit/Core
+    - Outfit/UI
+  - Outfit/Core (0.1.0)
+  - Outfit/UI (0.1.0):
+    - Outfit/Core
+
+DEPENDENCIES:
+  - Outfit (from `../`)
+
+EXTERNAL SOURCES:
+  Outfit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Outfit: dd9706a97982529c27f391ddcf0037d317638597
+
+PODFILE CHECKSUM: 2e318eacac31e9fe338629fd19d92c9307b1ffd4
+
+COCOAPODS: 1.5.3
